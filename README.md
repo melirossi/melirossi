@@ -93,7 +93,7 @@
 <br>
 
 <h4 align="center">
-  𝗜 𝗹𝗼𝘃𝗲 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗽𝗲𝗼𝗽𝗹𝗲 𝘀𝗼 𝗶𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝘀𝗮𝘆 𝗵𝗶, 𝗜'𝗹𝗹 𝗯𝗲 𝗵𝗮𝗽𝗽𝘆 𝘁𝗼 𝗺𝗲𝗲𝘁 𝘆𝗼𝘂 𝗺𝗼𝗿𝗲!
+  I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
   <br>
   <br>
   <a><img align="center" src="https://img.shields.io/badge/MADE_WITH_L♡VE_BY_MEL-ff69b4?style=for-the-badge&logo=appveyor.svg"/></a>
