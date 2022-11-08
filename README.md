@@ -1,6 +1,6 @@
-<h1 align="center"> Hi :wave:! I'm Melisa Rossi </h1>
+<h1 align="center"> Hi there 👋 </h1>  
 </br>
-<p align="center"> I love creating new things ⚡</p>
+<h3 align="center"> I love creating new things ⚡</h3>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 
