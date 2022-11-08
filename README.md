@@ -103,6 +103,3 @@
   <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=Stars&style=flat-square"/></a>
   <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=succes&label=Watchers&style=flat-square"/></a>
 </p>
-
-https://img.shields.io/github/stars/melirossi?style=flat-square
-
