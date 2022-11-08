@@ -1,5 +1,3 @@
-<br>
-
 ---
 
 <h1 align="center"> 𝗛𝗶 👋🏻, 𝗜'𝗺 𝗠𝗲𝗹𝗶𝘀𝗮 𝗥𝗼𝘀𝘀𝗶! </h1>
@@ -14,12 +12,6 @@
 </p>
 
 ---
-
-<br>
-
-<p align="center">
-  <a><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy"/></a>
-</p>
 
 <br>
 
@@ -92,13 +84,25 @@
 </details>
 
 <br>
+<br>
+
+<p align="center">
+  <a><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy"/></a>
+</p>
+
+<br>
 
 <p align="center">
   𝗜 𝗹𝗼𝘃𝗲 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗽𝗲𝗼𝗽𝗹𝗲 𝘀𝗼 𝗶𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝘀𝗮𝘆 𝗵𝗶, 𝗜'𝗹𝗹 𝗯𝗲 𝗵𝗮𝗽𝗽𝘆 𝘁𝗼 𝗺𝗲𝗲𝘁 𝘆𝗼𝘂 𝗺𝗼𝗿𝗲!
   <br>
   <br>
   <a><img align="center" src="https://img.shields.io/badge/MADE_WITH_L♡VE_BY_MEL-ff69b4?style=for-the-badge&logo=appveyor.svg"/></a>
+  <br>
+  <br>
+  <br>
+  <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=Stars&style=flat-square"/></a>
+  <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=succes&label=Watchers&style=flat-square"/></a>
 </p>
 
-
+https://img.shields.io/github/stars/melirossi?style=flat-square
 
