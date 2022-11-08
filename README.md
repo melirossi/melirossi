@@ -92,7 +92,7 @@
 
 <br>
 
-<p align="center">
+<h4 align="center">
   𝗜 𝗹𝗼𝘃𝗲 𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗽𝗲𝗼𝗽𝗹𝗲 𝘀𝗼 𝗶𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝘀𝗮𝘆 𝗵𝗶, 𝗜'𝗹𝗹 𝗯𝗲 𝗵𝗮𝗽𝗽𝘆 𝘁𝗼 𝗺𝗲𝗲𝘁 𝘆𝗼𝘂 𝗺𝗼𝗿𝗲!
   <br>
   <br>
@@ -102,4 +102,4 @@
   <br>
   <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=Stars&style=flat-square"/></a>
   <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=succes&label=Watchers&style=flat-square"/></a>
-</p>
+</h4>
