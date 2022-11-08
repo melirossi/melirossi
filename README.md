@@ -92,7 +92,7 @@
 
 <br>
 
-<h4 align="center">
+<h3 align="center">
   I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
   <br>
   <br>
@@ -100,6 +100,6 @@
   <br>
   <br>
   <br>
-  <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=Stars&style=flat-square"/></a>
-  <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=succes&label=Watchers&style=flat-square"/></a>
-</h4>
+  <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=STARS&style=flat-square"/></a>
+  <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=succes&label=WACHERS&style=flat-square"/></a>
+</h3>
