@@ -100,6 +100,6 @@
   <br>
   <br>
   <br>
-  <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=STARS&style=flat-square"/></a>
-  <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=succes&label=WACHERS&style=flat-square"/></a>
+  <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=Stars&style=flat-square"/></a>
+  <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=orange&label=Watchers&style=flat-square"/></a>
 </h3>
