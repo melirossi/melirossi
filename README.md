@@ -100,6 +100,5 @@
   <br>
   <br>
   <br>
-  <a><img align="right" src="https://img.shields.io/github/stars/melirossi?color=yellow&label=Stars&style=flat-square"/></a>
-  <a><img align="right" src="https://img.shields.io/github/watchers/melirossi/melirossi?color=orange&label=Watchers&style=flat-square"/></a>
+   <a><img align="right" height="25px" src="https://komarev.com/ghpvc/?username=melirossi&style=for-the-badge&color=DC99AF" alt="profile views"></a>
 </h3>
