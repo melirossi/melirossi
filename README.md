@@ -84,13 +84,6 @@
 </details>
 
 <br>
-<br>
-
-<p align="center">
-  <a><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=buefy"/></a>
-</p>
-
-<br>
 
 <h3 align="center">
   I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
