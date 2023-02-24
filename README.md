@@ -76,14 +76,10 @@
   
   <summary><h2> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊 </h2></summary>
   
-  <p align="center">  
-    
-  <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=melirossi&theme=buefy&hide_border=true&include_all_commits=false&count_private=false"></a>
-  <a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=melirossi&theme=buefy&hide_border=true"></a>
-    <br>
-    <br>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melirossi&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
-    
+ <p align="center">
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=melirossi&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/> </a>
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melirossi&theme=buefy&hide_border=true"/></a>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melirossi&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></a>
   </p>
   
 </details>
@@ -94,7 +90,7 @@
   I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
   <br>
   <br>
-  <a><img align="center" src="https://img.shields.io/badge/MADE_WITH_L♡VE_BY_MEL-ff69b4?style=for-the-badge&logo=appveyor.svg"/></a>
+  <a><img align="center" src="https://img.shields.io/badge/MADE_WITH_L♡VE_BY_MEL-ff69b4?style=for-the-badge&logo=appveyor.svg"></a>
   <br>
   <br>
   <br>
