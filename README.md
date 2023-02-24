@@ -76,8 +76,14 @@
   
   <summary><h2> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊 </h2></summary>
   
-  <p align="center">    
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melirossi&theme=buefy&hide_border=true"/></a>
+  <p align="center">  
+    
+  <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=melirossi&theme=buefy&hide_border=true&include_all_commits=false&count_private=false"></a>
+  <a><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=melirossi&theme=buefy&hide_border=true"></a>
+    <br>
+    <br>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melirossi&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></a>
+    
   </p>
   
 </details>
