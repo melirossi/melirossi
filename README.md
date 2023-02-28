@@ -78,7 +78,9 @@
   
  <p align="center">
   <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=melirossi&theme=buefy&hide_border=true&include_all_commits=true&count_private=true"/> </a>
+   <br>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melirossi&theme=buefy&hide_border=true"/></a>
+   <br>
   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melirossi&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></a>
   </p>
   
@@ -87,7 +89,7 @@
 <br>
 
 <h3 align="center">
-  I love connecting with different people so if you want to say hi, I'll be happy to meet you more!
+  I love connecting with different people, so if you want to say hi, I'll be happy to meet you more!
   <br>
   <br>
   <a><img align="center" src="https://img.shields.io/badge/MADE_WITH_L♡VE_BY_MEL-ff69b4?style=for-the-badge&logo=appveyor.svg"></a>
