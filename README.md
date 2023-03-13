@@ -110,12 +110,12 @@
   <summary><h2> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊 </h2></summary>
   
  <p align="center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=melirossi&theme=whitegrey&hide_border=true&include_all_commits=true&count_private=true"/> </a>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=melirossi&title_color=6A8D9E&text_color=9C9C9C&icon_color=9C9C9C&hide_border=true&show_icons=true"/> </a>
    <br>
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melirossi&theme=whitegrey&hide_border=true"/></a>
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=melirossi&hide_border=true&date_format=j%2Fn%5B%2FY%5D&stroke=9C9C9C&ring=6A8D9E&fire=6A8D9E&currStreakNum=6A8D9E&currStreakLabel=6A8D9E&sideNums=9C9C9C&sideLabels=9C9C9C"/></a>
    <br>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melirossi&theme=whitegrey&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></a>
-  </p>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melirossi&title_color=6A8D9E&text_color=9C9C9C&hide_border=true&langs_count=15"/></a>
+</p>
   
 </details>
 
