@@ -46,9 +46,10 @@
 
   ### 🖥️ Development and Design
 
+  ![Kanban](https://img.shields.io/badge/Kanban-0093E0?style=for-the-badge&logo=kanban&logoColor=white)
   ![PseInt](https://img.shields.io/badge/PseInt-5E8B7E?style=for-the-badge&logo=PseInt&logoColor=white)
   ![Scrum](https://img.shields.io/badge/Scrum-181717?style=for-the-badge&logo=scrum&logoColor=white)
-  ![Kanban](https://img.shields.io/badge/Kanban-0093E0?style=for-the-badge&logo=kanban&logoColor=white)
+  
 
   ### 📚 Frameworks, Platforms and Libraries
 
