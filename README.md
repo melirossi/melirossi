@@ -44,6 +44,12 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
+  ### 🖥️ Development and Design
+
+  ![PseInt](https://img.shields.io/badge/PseInt-5E8B7E?style=for-the-badge&logo=PseInt&logoColor=white)
+  ![Scrum](https://img.shields.io/badge/Scrum-181717?style=for-the-badge&logo=scrum&logoColor=white)
+  ![Kanban](https://img.shields.io/badge/Kanban-0093E0?style=for-the-badge&logo=kanban&logoColor=white)
+
   ### 📚 Frameworks, Platforms and Libraries
 
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
